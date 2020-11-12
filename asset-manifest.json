@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/iss-tracker/static/css/main.a02eef18.chunk.css",
+    "main.js": "/iss-tracker/static/js/main.d87037ed.chunk.js",
+    "main.js.map": "/iss-tracker/static/js/main.d87037ed.chunk.js.map",
+    "runtime-main.js": "/iss-tracker/static/js/runtime-main.3b626b92.js",
+    "runtime-main.js.map": "/iss-tracker/static/js/runtime-main.3b626b92.js.map",
+    "static/js/2.cfa09632.chunk.js": "/iss-tracker/static/js/2.cfa09632.chunk.js",
+    "static/js/2.cfa09632.chunk.js.map": "/iss-tracker/static/js/2.cfa09632.chunk.js.map",
+    "index.html": "/iss-tracker/index.html",
+    "precache-manifest.39fb6b730b448ea9041bc0f207d11820.js": "/iss-tracker/precache-manifest.39fb6b730b448ea9041bc0f207d11820.js",
+    "service-worker.js": "/iss-tracker/service-worker.js",
+    "static/css/main.a02eef18.chunk.css.map": "/iss-tracker/static/css/main.a02eef18.chunk.css.map",
+    "static/js/2.cfa09632.chunk.js.LICENSE.txt": "/iss-tracker/static/js/2.cfa09632.chunk.js.LICENSE.txt",
+    "static/media/icon.svg": "/iss-tracker/static/media/icon.442ed8f3.svg",
+    "static/media/portrait-placeholder.png": "/iss-tracker/static/media/portrait-placeholder.7de11697.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b626b92.js",
+    "static/js/2.cfa09632.chunk.js",
+    "static/css/main.a02eef18.chunk.css",
+    "static/js/main.d87037ed.chunk.js"
+  ]
+}
